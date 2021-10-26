@@ -1,0 +1,9 @@
+Flask-RESTful
+flask_cors
+requests
+python-decouple
+Flask-SQLAlchemy
+spotipy
+lyricsgenius
+psycopg2
+gunicorn
